@@ -1,0 +1,21 @@
+# feb/13/2019  0: 0:13 by RouterOS 6.43.8
+# software id = 8QHV-GPCK
+#
+ # NAME                   TYPE                        SIZE CREATION-TIME       
+
+feb/13/2019 00:00:00 10.240.0.65 --> rx-total-average: 89.867 Mbps    tx-total-average: 89.673 Mbps
+feb/13/2019 00:01:01 10.240.63.253 --> rx-total-average: 95.834 Mbps    tx-total-average: 144.968 Mbps
+feb/13/2019 00:02:01 10.240.63.252 --> rx-total-average: 95.508 Mbps    tx-total-average: 132.360 Mbps
+feb/13/2019 00:03:01 10.240.63.251 --> rx-total-average: 92.267 Mbps    tx-total-average: 94.24 Mbps
+feb/13/2019 00:04:00 10.240.63.250 --> rx-total-average: 92.311 Mbps    tx-total-average: 94.48 Mbps
+feb/13/2019 00:05:00 10.240.63.249 --> rx-total-average: 81.722 Mbps    tx-total-average: 86.701 Mbps
+feb/13/2019 00:06:00 10.240.63.248 --> rx-total-average: 81.523 Mbps    tx-total-average: 86.468 Mbps
+feb/13/2019 00:07:01 10.240.63.247 --> rx-total-average: 80.299 Mbps    tx-total-average: 86.656 Mbps
+feb/13/2019 00:08:00 10.240.63.245 --> rx-total-average: 80.672 Mbps    tx-total-average: 86.556 Mbps
+feb/13/2019 00:09:00 10.240.63.244 --> rx-total-average: 80.747 Mbps    tx-total-average: 86.370 Mbps
+feb/13/2019 00:10:00 10.240.63.243 --> rx-total-average: 42.63 Mbps    tx-total-average: 63.465 Mbps
+feb/13/2019 00:11:00 10.240.63.242 --> rx-total-average: 79.870 Mbps    tx-total-average: 86.756 Mbps
+feb/13/2019 00:12:00 10.240.63.241 --> rx-total-average: 80.161 Mbps    tx-total-average: 86.670 Mbps
+feb/13/2019 00:13:00 10.240.63.237 --> rx-total-average: 80.464 Mbps    tx-total-average: 62.428 Mbps
+feb/13/2019 00:14:00 10.240.63.236 --> rx-total-average: 80.191 Mbps    tx-total-average: 62.784 Mbps
+feb/13/2019 00:15:00 10.240.63.235 --> rx-total-average: 79.626 Mbps    tx-total-average: 62.886 Mbps
