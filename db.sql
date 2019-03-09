@@ -20,7 +20,7 @@ CREATE TABLE public.sites
 (
     id integer NOT NULL,
     name character varying(30) COLLATE pg_catalog."default" NOT NULL,
-    ip character(12) COLLATE pg_catalog."default" NOT NULL,
+    ip character(16) COLLATE pg_catalog."default" NOT NULL,
     CONSTRAINT sites_pkey PRIMARY KEY (id)
 )
 WITH (
